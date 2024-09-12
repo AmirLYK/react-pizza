@@ -5,7 +5,6 @@ function Sort() {
   const [selected, setSelected] = useState(0);
 
   const list = ['популярности', 'цене', 'алфавиту'];
-  console.log('render');
 
   const onClickListItem = (i) => {
     setSelected(i);
