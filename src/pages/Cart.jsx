@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Cart = () => {
   return (
-    <div className='container container--cart'>
+    <div className="container container--cart">
       <div class="cart">
         <div class="cart__top">
           <h2 class="content__title">
