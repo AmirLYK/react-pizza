@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import styles from './NotFound.Block.module.scss'
+import styles from './NotFound.Block.module.scss';
 
 const NotFoundBlock = () => {
   return (
@@ -14,7 +14,7 @@ const NotFoundBlock = () => {
         К сожалению данная страница отсутствует в нашем интернет-магазине
       </p>
     </div>
-  )
-}
+  );
+};
 
 export default NotFoundBlock;
